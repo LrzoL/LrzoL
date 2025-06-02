@@ -1,4 +1,4 @@
-## Hello, wolrd! 👋
+## Hello, world! 👋
 Me chamo Lorenzo, sou
 Desenvolvedor de software com foco em React, TypeScript e tecnologias web!
  Em constante evolução, apaixonado por resolver problemas reais com código.
