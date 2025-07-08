@@ -4,10 +4,6 @@
 
 Atualmente focado em **React**, **TypeScript** e tecnologias web modernas. Gosto de transformar ideias em experiências digitais bem construídas, funcionais e responsivas.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -20,8 +16,6 @@ Atualmente focado em **React**, **TypeScript** e tecnologias web modernas. Gosto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
 </div>
-
----
 
 - 📍 Recife - PE, Brasil  
 - 🎓 Graduando em Sistemas para Internet (UNICAP)  
