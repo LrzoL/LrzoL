@@ -17,8 +17,8 @@ Atualmente focado em **React**, **TypeScript** e tecnologias web modernas. Gosto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
 </div>
 
-- 📍 Recife - PE, Brasil  
-- 🎓 Graduando em Sistemas para Internet (UNICAP)  
+
+- 🎓 Graduado em Sistemas para Internet (UNICAP)  
 - 🧠 Sempre aprendendo novas tecnologias e boas práticas  
 - 🌱 Atualmente aprendendo mais sobre testes e boas práticas em React  
 - 🤝 Aberto a colaborações e networking  
