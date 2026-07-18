@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lorenzo!
 
-🎯 Desenvolvedor Front-end Júnior apaixonado por tecnologia, interfaces acessíveis e soluções que impactam positivamente o mundo.
+🎯 Desenvolvedor Front-End apaixonado por tecnologia, interfaces acessíveis e soluções que impactam positivamente o mundo.
 
 Atualmente focado em **React**, **TypeScript** e tecnologias web modernas. Gosto de transformar ideias em experiências digitais bem construídas, funcionais e responsivas.
 
